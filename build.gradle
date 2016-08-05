@@ -39,5 +39,5 @@ dependencies {
     
     testCompile("junit:junit")
 
-    providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
+    providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
 }
