@@ -1,0 +1,32 @@
+body {
+	height: 70%;
+	background-color: rgb(245, 245, 245);
+}
+
+body, .form-control {
+	font-size: 12px !important;
+}
+
+.tablecontainer {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.generic-container {
+	width: 80%;
+	margin: auto;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #EAE7E7;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	box-shadow: 0 0 30px black;
+}
+
+.searchBar {
+	display: inline-block;
+	position: absolute;
+	right: 12%;
+	margin-top: -6px;
+}
