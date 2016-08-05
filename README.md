@@ -4,7 +4,7 @@
  - Spring framework
  - Spring Boot for rapid development & deployment
  - Tomcat server
- - Gradle as dependency maenter image description herenager
+ - Gradle as dependency manager
  - AngularJS 1.4.9 for for data binding for Web App and making http calls to server
  - JSP for template rendering
  - LocalStorage for data persistence
