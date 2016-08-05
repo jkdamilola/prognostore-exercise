@@ -12,13 +12,17 @@
  - MomentJS & Joda-Time for date/time manipulation
  - Git for version control
 
+
+----------
+
+
 # Installing the Exercise
 
  1. [Download](https://github.com/jkdamilola/prognostore-exercise/archive/master.zip) and unzip the source repository for this exercise, or clone it using Git: 
  `git clone https://github.com/jkdamilola/prognostore-exercise.git`.
  2. cd into project's root folder.
- 3. You can run the application using `./gradlew bootRun` or you can you can build a single WAR file using `./gradlew clean build`. This contains all the necessary dependencies, classes and resources making it easy to ship, version, and deploy across different environments.
- 4. Now that the web site is running, visit http://localhost:8080/stock/home, where you can see; 
+ 3. You can you can build a single WAR file using `./gradlew clean build`. This contains all the necessary dependencies, classes and resources making it easy to ship, version, and deploy across different environments. Or you can simply run the application using `./gradlew bootRun`.
+ 4. Now that the application is running, visit http://localhost:8080/stock/home, where you can see; 
 
 
 ----------
